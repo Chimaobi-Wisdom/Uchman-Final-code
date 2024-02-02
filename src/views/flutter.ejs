@@ -1,0 +1,21 @@
+
+<body>
+  <form method="POST" action="https://checkout.flutterwave.com/v3/hosted/pay">
+    <div>
+      Your order is N2,000
+    </div>
+    <input type="hidden" name="public_key" value="FLWPUBK-e35c3969b828b641c979a8cd94b4392d-X" />
+    <input type="hidden" name="customer[email]" value="<%= payerMail %>"/>
+    <input type="hidden" name="customer[name]" value="" />
+    <input type="hidden" name="tx_ref" value="txref-81123" />
+    <input type="hidden" name="amount" value="2499" />
+    <input type="hidden" name="currency" value="NGN" />
+    <input type="hidden" name="meta[source]" value="docs-html-test" />
+    <input type="hidden" name="customizations[title]" value="X Cash Flow Accelerator"/>
+    <input type="hidden" name="customizations[description]" value="X Cash Flow Accelerator"/>
+ 
+    <br>
+    <button type="submit" id="start-payment-button">Pay Now</button>
+  </form>
+
+  <script type="text/javascript" src="./home.js"></script>

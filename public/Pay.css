@@ -1,0 +1,774 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(41,46,51,0.7), rgba(41,46,51,0.7)), url("images/cover-img.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1294px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 476px;
+  height: auto;
+  --radius: 5px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: none;
+  min-height: 1126px;
+  margin: 60px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: AntipastoPro-Light_trial;
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 0 auto 0 31px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: AntipastoPro-Bold_trial;
+  font-size: 2.25rem;
+  width: 216px;
+  margin: 34px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Raleway-Light;
+  font-size: 1.625rem;
+  font-weight: 700;
+  margin: 49px auto 0 49px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: Raleway-Light;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 17px 63px 0 49px;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: Raleway-Light;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 11px auto 0 49px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 403px;
+  min-height: 68px;
+  height: auto;
+  margin: -54px auto 0 25px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.u-section-1 .u-line-1 {
+  height: 3px;
+  transform-origin: center top 0px;
+  width: 0;
+  margin: 18px 236px 0 0;
+}
+
+.u-section-1 .u-form-1 {
+  --radio-checked-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='2' fill='%23478ac9'/%3e%3c/svg%3e");
+  height: 117px;
+  width: 444px;
+  margin: 80px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-family: AntipastoPro-Light_trial;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 0;
+}
+
+.u-block-8d0c-56 {
+  font-family: AntipastoPro-Light_trial;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-image-1 {
+  width: 206px;
+  height: 61px;
+  margin: -46px auto 0 40px;
+}
+
+.u-section-1 .u-group-3 {
+  min-height: 242px;
+  width: 427px;
+  height: auto;
+  border-style: dotted;
+  background-image: none;
+  margin: 25px auto 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: Raleway-Light;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.25rem;
+  letter-spacing: 1px;
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: Raleway-Light;
+  font-weight: 700;
+  margin: 25px -1px 0 15px;
+}
+
+.u-section-1 .u-text-8 {
+  font-family: AntipastoPro-Light_trial;
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: -909px 515px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-size: 1.875rem;
+  padding: 0;
+}
+
+.u-section-1 .u-text-9 {
+  font-family: AntipastoPro-Bold_trial;
+  font-size: 2.25rem;
+  line-height: 1.63;
+  letter-spacing: 3px;
+  font-weight: 700;
+  margin: 96px 650px 0 80px;
+}
+
+.u-section-1 .u-form-2 {
+  height: 570px;
+  margin: 13px 570px 0 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-family: Ubuntu-L;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-1 {
+  --radius: 8px;
+}
+
+.u-section-1 .u-label-3 {
+  font-family: Ubuntu-L;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-2 {
+  --radius: 8px;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-family: Ubuntu-L;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-3 {
+  --radius: 8px;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-family: Ubuntu-L;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-4 {
+  --radius: 8px;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  font-family: Ubuntu-L;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-5 {
+  --radius: 8px;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-7 {
+  font-family: Ubuntu-L;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-6 {
+  --radius: 8px;
+}
+
+.u-section-1 .u-btn-3 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -38px auto 0 141px;
+}
+
+.u-section-1 .u-text-10 {
+  font-family: AntipastoPro-Light_trial;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: -197px 582px 341px 387px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1138px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1040px;
+    margin-top: 39px;
+    margin-right: -27px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-top: -56px;
+    height: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 137px;
+    margin-top: -42px;
+    margin-right: 7px;
+    margin-left: 23px;
+  }
+
+  .u-section-1 .u-form-group-1 {
+    margin-top: 30px;
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -32px;
+    margin-left: 49px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 296px;
+    margin-top: 18px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: auto;
+    margin-top: 31px;
+  }
+
+  .u-section-1 .u-text-8 {
+    width: auto;
+    margin-top: -981px;
+    margin-right: 482px;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: auto;
+    margin-top: 75px;
+    margin-right: 530px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-2 {
+    height: 522px;
+    margin-right: 482px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    --radius: 5px;
+    margin-top: -7px;
+    margin-left: 70px;
+  }
+
+  .u-section-1 .u-text-10 {
+    width: auto;
+    margin: -169px 488px 60px 285px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1999px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 552px;
+    min-height: 996px;
+    margin-top: 106px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -12px;
+    margin-right: 174px;
+    margin-left: 160px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-family: AntipastoPro-Bold_trial;
+    font-size: 1.625rem;
+    width: auto;
+    margin-top: 27px;
+    margin-left: 96px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 23px;
+    margin-left: 89px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-left: 89px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-left: 64px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-top: -33px;
+    margin-bottom: 30px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -26px;
+    margin-right: 40px;
+    margin-left: 66px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -42px;
+    margin-left: 89px;
+  }
+
+  .u-section-1 .u-group-3 {
+    margin-top: 44px;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-top: 27px;
+    margin-right: 0;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-top: -1071px;
+    margin-right: 146px;
+    margin-left: 116px;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-top: 1133px;
+    margin-right: 181px;
+    margin-left: 129px;
+  }
+
+  .u-section-1 .u-form-2 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 0;
+    margin-left: 201px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-top: -176px;
+    margin-right: 14px;
+    margin-left: 529px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1676px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 70px;
+    min-height: 853px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 15px;
+    margin-right: 178px;
+    margin-left: 144px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 86px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 392px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 73px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-top: -59px;
+    margin-left: 57px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -61px;
+    margin-left: 23px;
+    margin-right: 7px;
+  }
+
+  .u-section-1 .u-label-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-block-8d0c-56 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -35px;
+    margin-left: 59px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 250px;
+    margin-top: 5px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 1.875rem;
+    margin-top: 15px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 12px;
+  }
+
+  .u-section-1 .u-text-8 {
+    font-size: 1rem;
+    width: 306px;
+    margin-top: -912px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-1 .u-text-9 {
+    font-size: 1.5rem;
+    width: 297px;
+    margin-top: 970px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -16px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-10 {
+    font-size: 1rem;
+    margin-top: -157px;
+    margin-right: 13px;
+    margin-left: 376px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1732px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 85px;
+    min-height: 770px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 25px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-top: -13px;
+    margin-right: 24px;
+    margin-left: 98px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.125rem;
+    margin-top: 20px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1rem;
+    width: 340px;
+    margin-top: 12px;
+    margin-right: -58px;
+    margin-left: 58px;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 1rem;
+    margin-left: 58px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 340px;
+    margin-top: 36px;
+    margin-left: -1px;
+    margin-right: -1px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-top: 0;
+    margin-right: 203px;
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -40px;
+    margin-right: -46px;
+    margin-left: 44px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -34px;
+    margin-left: 66px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 227px;
+    width: 307px;
+    margin-top: 6px;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 1.5rem;
+    line-height: 1.71;
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-top: 11px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-text-8 {
+    width: auto;
+    margin-top: -829px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-text-9 {
+    letter-spacing: 1px;
+    width: 255px;
+    margin-top: 823px;
+  }
+
+  .u-section-1 .u-form-2 {
+    height: 600px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-label-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-label-3 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-label-4 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-label-5 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-label-6 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-label-7 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-btn-4 {
+    --radius: 4px;
+    font-family: AntipastoPro-Light_trial;
+    font-weight: 700;
+    font-size: 1.125rem;
+    border-style: solid;
+    margin-top: -9px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-top: -169px;
+    margin-right: 19px;
+    margin-left: 170px;
+  }
+}@font-face {
+  font-family: 'AntipastoPro-Light_trial';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AntipastoPro-Light_trial.ttf);
+}@font-face {
+  font-family: 'AntipastoPro-Bold_trial';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AntipastoPro-Bold_trial.ttf);
+}@font-face {
+  font-family: 'Raleway-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Raleway-Light.ttf);
+}@font-face {
+  font-family: 'Ubuntu-L';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Ubuntu-L.ttf);
+}@font-face {
+  font-family: 'Consider';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Consider.otf);
+}
+
+.alertBox {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #f8d7da; /* Light red background color */
+  color: #721c24; /* Dark red text color */
+  border: 1px solid #f5c6cb; /* Light red border color */
+  padding: 15px;
+  border-radius: 5px;
+  display: none;
+  z-index: 9999;
+  width: 250px; /* Adjust width as needed */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.closeBtn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #721c24; /* Dark red text color */
+}
+
+.closeBtn:hover {
+  color: #721c24; /* Dark red text color */
+}
+
+/* Optional styles for the alert text */
+#alertText {
+  margin-top: 5px;
+}
+
